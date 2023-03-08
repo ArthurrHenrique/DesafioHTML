@@ -9,11 +9,51 @@ html {
     height:40px;
     border-radius:50%;
     top:0;
-    padding: 1px:;
-    background-color
+    padding: 1px;
+    background-color: #ffff;
 
 }
 
+#perfil_foto:hover{
+    background-color: #3333;
+    opacity: 0,5;
+}
 
+h1{
+    font-family:'Enphesis';
+    font-size: 70px;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+ul{
+    list-style-type: nome;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+
+}
+
+li{
+    float:left;
+}
+
+li a{
+    display:block;
+    color:#7f52eb;
+    text-align: center;
+    padding:13px 16 px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} 
+
+li:hover{
+    background-color: color #a1029c;
+    color: white;
+    opacity: 1.0;
+    
+}
 
 
